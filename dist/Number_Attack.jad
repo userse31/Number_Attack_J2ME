@@ -1,0 +1,8 @@
+MIDlet-1: Game_PRICE,,Game_PRICE
+MIDlet-Jar-Size: 4811
+MIDlet-Jar-URL: Number_Attack.jar
+MIDlet-Name: Number_Attack
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
